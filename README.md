@@ -21,3 +21,5 @@ Stack Overflow is something which every programmer use one way or another. Each 
 - If you see the `Red colour Highlighted Box Sentence` in the given image it is called `Title`.
 - If you see the `Gren colour Highlighted Box Sentence` in the given image it is called `Description`.
 - If you see the `Orange colour Highlighted Box Words` in the given image it is called `Tags`.
+
+#### Working Of Stack overflow in Simple Way:
