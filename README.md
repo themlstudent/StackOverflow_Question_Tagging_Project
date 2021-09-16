@@ -16,3 +16,7 @@ Stack Overflow is something which every programmer use one way or another. Each 
 *Suggest the tags based on the content that was there in the question posted on Stackoverflow.*
 
 ![](images/st2.png)
+
+
+- If you see the `Red colour Hilighted of Box` in the given image it is called `Title`.
+- 
