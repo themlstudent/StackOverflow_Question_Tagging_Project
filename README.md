@@ -23,3 +23,6 @@ Stack Overflow is something which every programmer use one way or another. Each 
 - If you see the `Orange colour Highlighted Box Words` in the given image it is called `Tags`.
 
 #### Working Of Stack overflow in Simple Way:
+
+ Anybody can Go an Ask a Question Basically They have to Provide `Title of the Question` , `Description`
+ and  `Tags`.
