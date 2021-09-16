@@ -18,5 +18,5 @@ Stack Overflow is something which every programmer use one way or another. Each 
 ![](images/st2.png)
 
 
-- If you see the `Red colour Hilighted of Box` in the given image it is called `Title`.
+- If you see the `Red colour Highlighted Box Sentence ` in the given image it is called `Title`.
 - 
