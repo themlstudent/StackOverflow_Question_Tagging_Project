@@ -69,3 +69,5 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
 - ` Size of Train.csv ` --> 6.75 GB
 - ` Size of Test.csv ` --> 2GB
 - ` Number of rows in Train.csv`  = 6034195
+
+### Data Field Explaination:
