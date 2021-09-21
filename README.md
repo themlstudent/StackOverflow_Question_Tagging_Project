@@ -66,3 +66,4 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
      - Body of the Question.
      - Tags.
 - `Test.csv` - contains the same columns as Test data but without the Tags, which you are to Predict.
+- `Size of Train.csv` --> 6.75 GB
