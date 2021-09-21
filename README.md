@@ -60,3 +60,8 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
  - All of the data contains 2 Files:
    - Train Set.
    - Test Set.
+- `Train.csv` - contains 4 Columns :- 
+     - Id of a User.
+     - Title of the Question.
+     - Body of the Question.
+     - Tags.
