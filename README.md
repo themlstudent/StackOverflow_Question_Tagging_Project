@@ -37,6 +37,6 @@ For Example: If You See the first image of Stack overflow website where the ques
 
 ## Data Source :
 
-![](images/d.png)
+![](images/d.png =250x250)
 
 Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/overview)
