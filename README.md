@@ -71,3 +71,5 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
 - ` Number of rows in Train.csv`  = 6034195
 
 ### Data Field Explaination:
+
+- Dataset contains 6,034,195 rows. The columns in the table are:
