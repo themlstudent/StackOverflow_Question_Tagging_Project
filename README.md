@@ -60,15 +60,15 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
  - All of the data contains 2 Files:
    - Train Set.
    - Test Set.
-- `Train.csv` - contains 4 Columns :- 
+- **Train.csv** - contains 4 Columns :- 
      - Id of a User.
      - Title of the Question.
      - Body of the Question.
      - Tags.
-- `Test.csv` - contains the same columns as Test data but without the Tags, which you are to Predict.
-- ` Size of Train.csv ` --> 6.75 GB
-- ` Size of Test.csv ` --> 2GB
-- ` Number of rows in Train.csv`  = 6034195
+- **Test.csv** - contains the same columns as Test data but without the Tags, which you are to Predict.
+- **Size of Train.csv** --> 6.75 GB
+- **Size of Test.csv** --> 2GB
+- **Number of rows in Train.csv**  = 6034195
 
 ### Data Field Explaination:
 
