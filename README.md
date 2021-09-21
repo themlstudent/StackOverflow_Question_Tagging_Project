@@ -61,9 +61,9 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
    - Train Set.
    - Test Set.
 - **Train.csv** - contains 4 Columns :- 
-     - Id of a User.
-     - Title of the Question.
-     - Body of the Question.
+     - Id 
+     - Title
+     - Body 
      - Tags.
 - **Test.csv** - contains the same columns as Test data but without the Tags, which you are to Predict.
 - **Size of Train.csv** --> 6.75 GB
@@ -74,3 +74,6 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
 
 - Dataset contains 6,034,195 rows. The columns in the table are :
    - **Id** - Unique Identifier for each Question.
+   - **Title** - The question's title.
+   - **Body** - The body of the question.
+   - **Tags** -The tags associated with the question in a space-seperated format (all lowercase, should not contain tabs '\t' or ampersands '&')
