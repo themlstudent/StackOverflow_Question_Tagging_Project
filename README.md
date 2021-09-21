@@ -47,3 +47,7 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
 - All the Data is Collected From Stack overflow by Facebook.
 
 ## Real World :- Business Objectives and Constraints
+
+- Predict as many tags as possible with high precision and recall.
+- Incorrect tags could impact customer experience on StackOverflow.
+- No strict latency constraints.
