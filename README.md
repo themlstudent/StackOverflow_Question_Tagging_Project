@@ -82,3 +82,5 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
 ## Mapping the Real-World Problem to a Machine Learning Problem:
 
 ### Type of Machine Learning Problem :
+
+- It is a **Multi-label** classification Problem.
