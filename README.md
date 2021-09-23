@@ -78,3 +78,5 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
    - **Title** - The question's title.
    - **Body** - The body of the question.
    - **Tags** -The tags associated with the question in a space-seperated format (all lowercase, should not contain tabs '\t' or ampersands '&')
+
+## Mapping the Real-World Problem to a Machine Learning Problem:
