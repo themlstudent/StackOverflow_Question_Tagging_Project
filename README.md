@@ -84,3 +84,4 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
 ### Type of Machine Learning Problem :
 
 - It is a **Multi-label** classification Problem.
+- **Multi-label Classification:** Multilabel classification assigns to each sample a set of target labels. This can be thought as predicting properties of a data-point that are not mutually exclusive, such as topics that are relevant for a document. A question on Stackoverflow might be about any of C, Pointers, FileIO and/or memory-management at the same time or none of these.
