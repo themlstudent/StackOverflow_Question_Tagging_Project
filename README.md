@@ -91,3 +91,8 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
 - [Solving Multi-Label Classification problems](https://www.analyticsvidhya.com/blog/2017/08/introduction-to-multi-label-classification/)
 
 ### Performance Metric :
+
+- **Micro-Averaged F1-Score (Mean F Score) :**
+
+The F1 score can be interpreted as a weighted average of the precision and recall, where an F1 score reaches its best value at 1 and worst score at 0. The relative contribution of precision and recall to the F1 score are equal.
+
