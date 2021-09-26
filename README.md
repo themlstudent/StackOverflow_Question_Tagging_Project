@@ -101,3 +101,5 @@ The F1 score can be interpreted as a weighted average of the precision and recal
 
 - **'Macro f1 score':**
    -  Calculate metrics for each label, and find their unweighted mean. This does not take label imbalance into account.
+
+ -[](images/sc.png)
