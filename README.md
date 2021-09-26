@@ -96,3 +96,8 @@ Dataset Link: -[Facebook Recruiting III - Keyword Extraction](https://www.kaggle
 
 The F1 score can be interpreted as a weighted average of the precision and recall, where an F1 score reaches its best value at 1 and worst score at 0. The relative contribution of precision and recall to the F1 score are equal.
 
+- 'Micro f1 score':
+     - Calculate metrics globally by counting the total true positives, false negatives and false positives. This is a better metric when we have class imbalance.
+
+- 'Macro f1 score':
+   -  Calculate metrics for each label, and find their unweighted mean. This does not take label imbalance into account.
